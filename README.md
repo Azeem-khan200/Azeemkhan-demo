@@ -1,2 +1,3 @@
 # Azeemkhan-demo
-This is mu first repo
+This is my  first Git Repository
+Author Azeem khan
